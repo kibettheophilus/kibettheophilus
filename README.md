@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Kibet,currently learning Android
 
 <!--
 **kibettheophilus/kibettheophilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
