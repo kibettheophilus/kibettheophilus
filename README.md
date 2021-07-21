@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Kibet,currently learning Android
+I am Kibet,Android Developer based in Nairobi Kenya
 
 <!--
 **kibettheophilus/kibettheophilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
