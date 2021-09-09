@@ -1,8 +1,23 @@
-### Hi there 👋
-I am Kibet,Android Developer based in Nairobi Kenya
+<h3 align="center">
+ Welcome to Theo's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android%2C+Kotlin+dev;Ask+me+anything+about+android;Open+source+fanatic&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kibettheophilus&hide=html&line_height=35)
-![github stats](https://github-readme-stats.vercel.app/api?username=kibettheophilus&show_icons=true&count_private=true&line_height=35)
+
+I am Kibet, an Android Developer based in Nairobi Kenya.
+
+## Github Stats
+
+ <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=kibettheophilus&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibettheophilus&langs_count=8&layout=compact&theme=tokyonight"/></td>
+  </tr>   
+</table>
+
 <!--
 **kibettheophilus/kibettheophilus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
