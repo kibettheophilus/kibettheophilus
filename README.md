@@ -6,7 +6,7 @@
 
 <!--Gif-->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android%2C+Kotlin+dev;Ask+me+anything+about+android;Open+source+fanatic&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there%2C+I+am+Kibet;An+Android+Engineer+based+in+Nairobi;I+am+an+open+source+fanatic;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
 </p>
 
 <!--Socials-->
@@ -18,11 +18,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<!--Bio-->
+<!--Bio
 -----------------------------------------------------------
 
 I am Kibet, an Android Developer based in Nairobi Kenya. 
-
+-->
 
 ## 💻Github Stats
 
