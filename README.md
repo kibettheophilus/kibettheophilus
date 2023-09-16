@@ -25,5 +25,5 @@ I am Kibet, an Android Developer based in Nairobi Kenya.
 -->
 
 # Recent Activities
-- Reproduced [Issue 441](https://github.com/Kotlin/kotlinx-kover/issues/441) in [Kotlin/kotlinx-kover)](https://github.com/Kotlin/kotlinx-kover)
+- Reproduced [Issue 441](https://github.com/Kotlin/kotlinx-kover/issues/441) in [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
 
