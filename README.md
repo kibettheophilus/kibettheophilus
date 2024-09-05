@@ -8,6 +8,7 @@ I'm a software engineer. I mostly work in Android, but dabble in backend work as
    - Amper
  - Compilers and programing language design
  - Open source
+ - ...and anything tooling in general
 
 # I'm currently learning...
 - Kotlin Multiplatform
